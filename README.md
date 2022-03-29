@@ -1,5 +1,5 @@
 # Olá, eu sou Alexandre Gurgel!
-## Estudante e entusiasta de tecnologia e programação.
+Estudante e entusiasta de tecnologia e programação.
 <div align="center">
   <a href="https://github.com/xandong">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xandong&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
