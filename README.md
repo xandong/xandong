@@ -1,5 +1,10 @@
 # Olá, eu sou o Alexandre Gurgel!
-Estudante e entusiasta de tecnologia e programação.
+
+Natural do Aracati, Ceará. Desde novo sou entusiasta da tecnologia e sempre busco entender como as coisas funcionam. Devido a isto, estou concluindo o Curso de Bacharelado em Ciência da Computação(7/8). Onde obtive experiências e aprendizados em Lógica de programação com C e Python, estudo sobre o paradigma de Orientação a Objetos com Java. Além de conhecimento em Modelagem de dados e Engenharia de Software, além de boas práticas conforme o padrão SOLID.
+
+Atualmente estudo Javascript e sua stack. Em específico o superset Typescript, a biblioteca ReactJs para construção de interfaces e o NodeJs para a construção e arquitetura do backend. Vejo a programação como um ‘novo inglês’, algo essencial para o futuro. E dominar essa área é o meu objetivo. Além de ajudar a promover o Ceará e o Nordeste como referência de inovação e tecnologia.
+
+
 <div align="center">
   <a href="https://github.com/xandong">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xandong&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
