@@ -1,8 +1,8 @@
-# Olá, eu sou o Alexandre Gurgel!
+# Hello, I'm Alexandre Gurgel!
 
-Natural do Aracati, Ceará. Desde novo sou entusiasta da tecnologia e sempre busco entender como as coisas funcionam. Devido a isto, estou concluindo o Curso de Bacharelado em Ciência da Computação(7/8). Onde obtive experiências e aprendizados em Lógica de programação com C e Python, estudo sobre o paradigma de Orientação a Objetos com Java. Além de conhecimento em Modelagem de dados e Engenharia de Software, além de boas práticas conforme o padrão SOLID.
+Born in Aracati, Ceará. I've been a technology enthusiast since I was young and I've always tried to understand how things work. Due to this, I am completing the Bachelor's Degree in Computer Science (7/8). Where I got experiences and learning in Logic programming with C and Python, I study on the Object Oriented paradigm with Java. In addition to knowledge in Data Modeling and Software Engineering, in addition to good practices according to the SOLID standard.
 
-Atualmente estudo Javascript e sua stack. Em específico o superset Typescript, a biblioteca ReactJs para construção de interfaces e o NodeJs para a construção e arquitetura do backend. Vejo a programação como um ‘novo inglês’, algo essencial para o futuro. E dominar essa área é o meu objetivo. Além de ajudar a promover o Ceará e o Nordeste como referência de inovação e tecnologia.
+Currently studying Javascript and its stack. Specifically the Typescript superset, the ReactJs library for building interfaces and NodeJs for building and backend architecture. I see programming as a 'new English', something essential for the future. And mastering this area is my goal. In addition to helping to promote Ceará and the Northeast as a reference for innovation and technology.
 
 
 <div align="center">
