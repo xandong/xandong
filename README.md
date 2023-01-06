@@ -1,6 +1,6 @@
 # Hello, I'm Alexandre Gurgel!
 
-Born in Aracati, Ceará. I've been a technology enthusiast since I was young and I've always tried to understand how things work. Due to this, I am completing the Bachelor's Degree in Computer Science (7/8). Where I got experiences and learning in Logic programming with C and Python, I study on the Object Oriented paradigm with Java. In addition to knowledge in Data Modeling and Software Engineering, in addition to good practices according to the SOLID standard.
+Born in Brazil. I've been a technology enthusiast since I was young and I've always tried to understand how things work. Due to this, I am completing the Bachelor's Degree in Computer Science (7/8). Where I got experiences and learning in Logic programming with C and Python, I study on the Object Oriented paradigm with Java. In addition to knowledge in Data Modeling and Software Engineering, in addition to good practices according to the SOLID standard.
 
 Currently studying Javascript and its stack. Specifically the Typescript superset, the ReactJs library for building interfaces and NodeJs for building and backend architecture. I see programming as a 'new English', something essential for the future. And mastering this area is my goal. In addition to helping to promote Ceará and the Northeast as a reference for innovation and technology.
 
