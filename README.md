@@ -4,7 +4,6 @@ Born in Brazil. I've been a technology enthusiast since I was young and I've alw
 
 Currently studying Javascript and its stack. Specifically the Typescript superset, the ReactJs library for building interfaces and NodeJs for building and backend architecture. I see programming as a 'new English', something essential for the future. And mastering this area is my goal. In addition to helping to promote Ceará and the Northeast as a reference for innovation and technology.
 
-
 <div align="center">
   <a href="https://github.com/xandong">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xandong&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
@@ -23,7 +22,7 @@ Currently studying Javascript and its stack. Specifically the Typescript superse
   <img align="center" alt="Express" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />         
-  <img align="center" alt="TailwindCss" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <!-- <img align="center" alt="TailwindCss" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> -->
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img  align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
           
