@@ -1,4 +1,4 @@
-# Hello, I'm Alexandre Gurgel!
+# Hello, I'm Alexandre Gurgel! [Portfolio](https://alexandre.vercel.app/)
 
 Born in Brazil, I've been a technology enthusiast since I was young, always curious about how things work. I hold a Bachelor's Degree in Computer Science, where I gained experience in logic programming with C and Python and studied the Object-Oriented paradigm with Java. I also acquired solid knowledge in Data Modeling and Software Engineering, along with best practices according to the SOLID principles.
 
