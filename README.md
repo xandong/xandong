@@ -4,11 +4,11 @@ Brazilian developer, lifelong technology enthusiast — curious about how system
 
 I build products mainly with **TypeScript**: **Node.js** and modern web runtimes on the backend, and **React** / **React Native** for interfaces and mobile experiences. Programming is foundational literacy for builders; long term I want to deepen that craft while helping strengthen **Ceará** and Brazil’s **Northeast** as places where serious tech gets built.
 
-**Portfolio:** [alexandre.vercel.app](https://alexandre.vercel.app/)
+**Portfolio:** [xandong.vercel.app](https://xandong.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xandongurgel)
 [![Email](https://img.shields.io/badge/Gmail-white?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:xandongurgel@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://alexandre.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://xandong.vercel.app/)
 
 ---
 
