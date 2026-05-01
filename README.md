@@ -88,7 +88,7 @@ _Three live widgets replace the animated snake: summary stats, contribution stre
 
 <p align="center">
   <a href="https://github.com/xandong">
-    <img height="180" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=xandong&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+    <!-- <img height="180" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=xandong&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> -->
     <img height="180" alt="Contribution streak statistics" src="https://streak-stats.demolab.com/?user=xandong&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   </a>
 </p>
