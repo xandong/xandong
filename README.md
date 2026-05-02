@@ -55,12 +55,36 @@ I build products mainly with **TypeScript**: **Node.js** and modern web runtimes
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+<!-- 
+_(Badges styled with [Shields.io](https://shields.io/) — flat‑square keeps profiles scannable without visual noise.)_
+
+<details>
+<summary><strong>Alternative: icon strip (Devicons)</strong></summary>
+
+<p align="left">
+  <img alt="HTML" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img alt="CSS" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img alt="JavaScript" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img alt="TypeScript" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="React" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="Next.js" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img alt="Tailwind CSS" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+  <img alt="Node.js" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="NestJS" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
+  <img alt="Express" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img alt="Strapi" height="36" width="36" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/strapi.svg">
+  <img alt="Python" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alt="Docker" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img alt="Google Cloud" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+</p>
+
+</details> -->
 
 ---
 
 ### GitHub overview
-
-_Three live widgets replace the animated snake: summary stats, contribution streak card, and a contribution timeline chart — widely used patterns for profile READMEs ([readme stats](https://github.com/anuraghazra/github-readme-stats), [streak](https://github.com/DenverCoder1/github-readme-streak-stats), [activity graph](https://github.com/Ashutosh00710/github-readme-activity-graph))._
+<!-- 
+_Three live widgets replace the animated snake: summary stats, contribution streak card, and a contribution timeline chart — widely used patterns for profile READMEs ([readme stats](https://github.com/anuraghazra/github-readme-stats), [streak](https://github.com/DenverCoder1/github-readme-streak-stats), [activity graph](https://github.com/Ashutosh00710/github-readme-activity-graph))._ -->
 
 <p align="center">
   <a href="https://github.com/xandong">
